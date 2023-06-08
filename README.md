@@ -21,9 +21,9 @@ password : admin1234
 
 
 NAMA ANGGOTA
-Rezky Maulana Rosa
-Faiq shofyan
-Hana Faizatul Hajar
+Rezky Maulana Rosa(2103026)
+Faiq shofyan(2103010)
+Hana Faizatul Hajar(2103013)
 
 No HP: 085158793440
 
